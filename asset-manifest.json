@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.88566224.css",
+    "main.js": "/Portfolio/static/js/main.29efc493.js",
+    "static/media/profilePicture.jpeg": "/Portfolio/static/media/profilePicture.2e20bcf3e35ce1f824ef.jpeg",
+    "static/media/ico-phyton-02.png": "/Portfolio/static/media/ico-phyton-02.ae0ae016067e7c263f8b.png",
+    "static/media/ico-phyton-01.png": "/Portfolio/static/media/ico-phyton-01.07f9a9ccf1b8eae94162.png",
+    "static/media/ico-phyton-03.png": "/Portfolio/static/media/ico-phyton-03.02626c83cd8b80bb6e8b.png",
+    "static/media/bootstrap.webp": "/Portfolio/static/media/bootstrap.a0d4f568a1d4fe3b2e83.webp",
+    "static/media/mongo.webp": "/Portfolio/static/media/mongo.b3ed53bfd1ded732e902.webp",
+    "static/media/Node.webp": "/Portfolio/static/media/Node.30081bff85883cbc731c.webp",
+    "static/media/html5-1.webp": "/Portfolio/static/media/html5-1.e70158b3a35195d2cc7c.webp",
+    "static/media/react.webp": "/Portfolio/static/media/react.245cb414fac3ab9b8e64.webp",
+    "static/media/javascript.webp": "/Portfolio/static/media/javascript.8c0ede032fd41717e490.webp",
+    "index.html": "/Portfolio/index.html",
+    "main.88566224.css.map": "/Portfolio/static/css/main.88566224.css.map",
+    "main.29efc493.js.map": "/Portfolio/static/js/main.29efc493.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88566224.css",
+    "static/js/main.29efc493.js"
+  ]
+}
