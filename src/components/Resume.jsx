@@ -15,7 +15,7 @@ import { projects } from './projects'
 const Resume = () => {
     return (
         <div className="container px-4 py-5 row mx-0 align-items-center" id="Resume">
-            <h2 className="pb-2 border-bottom">Resume</h2>
+            <h2 className="p-2 border-bottom">Resume</h2>
             <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 py-5">
                 <div className="col d-flex flex-wrap align-content-start">
                     <div className="col d-flex align-items-center">
@@ -118,7 +118,7 @@ const Resume = () => {
                         </svg>
                         <h3 className="fw-bold mb-0 fs-4">Professional Experience</h3>
                     </div>
-                    <p>Gracias a las herramientas que he aprendido, he logtado desarrollar ciertos proyectos que conforman mi portafolio como desarrollador Web FullStack:</p>
+                    <p>Gracias a las herramientas que he aprendido, he logrado desarrollar ciertos proyectos que conforman mi portafolio como desarrollador Web FullStack:</p>
                     {projects.map((element)=>{
                         return (
                             <div className="d-flex gap-3 py-1">

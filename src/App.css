@@ -41,3 +41,6 @@
 img{
     object-fit: contain;
 }
+.cardHeight{
+    height: 100% !important
+}

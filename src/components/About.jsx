@@ -4,8 +4,8 @@ import profilePicture from './assets/profilePicture.jpeg'
 
 const About = () => {
     return (
-        <div className='container bg-Home row mx-0 align-items-center' id='About'>
-              <h2 className="pb-2 border-bottom">About</h2>
+        <div className='container bg-Home row mx-0 align-items-start' id='About'>
+              <h2 className="p-2 pt-4 border-bottom">About</h2>
             <div className="row">
                 <div className="col-md-7  row align-items-center">
                     <h2 className="fw-normal lh-1">Luis Eduardo Cervantes Cuevas</h2>
