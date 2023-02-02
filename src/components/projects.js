@@ -1,5 +1,5 @@
 export const projects = [
-    {
+/*     {
         name: "Landing de Venta",
         imgURL:"https://github.com/LeccStar/Landing-de-Venta/blob/master/IMG/WhatsApp%20Image%202022-06-24%20at%2011.59.40%20AM.jpeg?raw=true",
         description:"Página web cuyo objetivo es cominicar un producto o servicio para su venta.",
@@ -9,7 +9,7 @@ export const projects = [
             "HTML",
             "CSS"
         ]
-    },
+    }, */
     {
         name: "CRUD App- Calculadora de Gastos",
         imgURL:"https://img.freepik.com/vector-gratis/gestionar-ilustracion-concepto-dinero_114360-8029.jpg?w=740&t=st=1670536506~exp=1670537106~hmac=61f07dbde903ab7b6321c32708a039d283ccb0524483ff3db906478fbb9b33bb",
@@ -25,7 +25,7 @@ export const projects = [
     {
         name: "Music Player",
         imgURL:"https://img.freepik.com/vector-gratis/marco-notas-musicales-espacio-texto_1017-32857.jpg?w=1380&t=st=1670537101~exp=1670537701~hmac=f79650c654672d7c86901ec62d40821465f3a628ba1660a936b57ecd21a75986",
-        description:"Reproductor sencillo de musica que utiliza canciones almacenadas en el repositorio. ",
+        description:"Reproductor sencillo de musica que utiliza canciones almacenadas en la nube para para no tener que ser descargadas. ",
         repUrl:"https://github.com/LeccStar/Music-Player",
         demoUrl:"https://leccstar.github.io/Music-Player/",
         tools:[

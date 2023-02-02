@@ -15,6 +15,14 @@ const Portfolio = () => {
                                     <div className="card-body d-flex flex-column justify-content-between">
                                         <h5 className='card-title'>{project.name}</h5>
                                         <p className="card-text">{project.description}</p>
+                                        <div className="d-flex">
+                                            {project.tools.map((tool) => {
+                                                return (
+                                                    <span class="badge text-bg-info text-white me-1 mb-1">{tool}</span>
+                                                )
+                                            })}
+                                        </div>
+
                                         <div className="d-flex justify-content-between align-items-center">
                                             <div className="btn-group">
                                                 <a href={project.repUrl} target="_balnk" rel='noreferrer noopener' type="button" className="btn btn-sm btn-outline-secondary"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
