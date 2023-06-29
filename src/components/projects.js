@@ -11,15 +11,13 @@ export const projects = [
         ]
     }, */
     {
-        name: "CRUD App- Calculadora de Gastos",
-        imgURL:"https://img.freepik.com/vector-gratis/gestionar-ilustracion-concepto-dinero_114360-8029.jpg?w=740&t=st=1670536506~exp=1670537106~hmac=61f07dbde903ab7b6321c32708a039d283ccb0524483ff3db906478fbb9b33bb",
-        description:"Calculadora de gastos con la que puedes declarar un presupuesto e ir añadiendo los gastos para revidarlos posteriormente.",
-        repUrl:"https://github.com/LeccStar/CRUD-APP",
-        demoUrl:"https://leccstar.github.io/CRUD-APP/",
-        tools:[
-            "HTML",
-            "CSS",
-            "JavaScript"
+        name: "SpellCaster: Lizards & Dragons",
+        imgURL: "https://img.itch.zone/aW1hZ2UvMjAzODAxMi8xMTk4ODMxMC5qcGc=/original/CPjtrC.jpg",
+        description: "Videojuego desarrollado con Unity y lanzado para móviles Android en Play Sotre y para PC en Itch.io",
+        demoUrl: "https://play.google.com/store/apps/details?id=com.LeccStarGames.LizardsDawn",
+        tools: [
+            "Unity",
+            "C#"
         ]
     },
     {
@@ -56,6 +54,18 @@ export const projects = [
             "Express js",
             "Mongo db",
             "React"
+        ]
+    },
+    {
+        name: "CRUD App- Calculadora de Gastos",
+        imgURL:"https://img.freepik.com/vector-gratis/gestionar-ilustracion-concepto-dinero_114360-8029.jpg?w=740&t=st=1670536506~exp=1670537106~hmac=61f07dbde903ab7b6321c32708a039d283ccb0524483ff3db906478fbb9b33bb",
+        description:"Calculadora de gastos con la que puedes declarar un presupuesto e ir añadiendo los gastos para revidarlos posteriormente.",
+        repUrl:"https://github.com/LeccStar/CRUD-APP",
+        demoUrl:"https://leccstar.github.io/CRUD-APP/",
+        tools:[
+            "HTML",
+            "CSS",
+            "JavaScript"
         ]
     }
 ]

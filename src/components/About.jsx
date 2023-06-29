@@ -9,7 +9,7 @@ const About = () => {
             <div className="row">
                 <div className="col-md-7  row align-items-center">
                     <h2 className="fw-normal lh-1">Luis Eduardo Cervantes Cuevas</h2>
-                    <p className="lead">Soy un programador Web Full Stack comprometido con mi preparación en el mundo de la Programación.
+                    <p className="lead">Soy un Desarrollador de videojuegos y Programador Web Full Stack comprometido con mi preparación en el mundo de la Programación.
                     Actualmente estoy buscando una primera oportunidad para poder seguir desarrollando mis habilidades que he aprendido a través de cursos Bootcamp, proyectos personales y métodos de autoaprendizaje.</p>
                 </div>
                 <div className="col-md-5">
