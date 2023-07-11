@@ -13,7 +13,7 @@ const Contact = () => {
                         </svg>
                         <div className="d-flex gap-2 w-100 justify-content-between">
                             <div>
-                                <h6 className="mb-0">Phone</h6>
+                                <h6 className="mb-0">Teléfono</h6>
                                 <p className="mb-0 opacity-75">(55) 4020 6036</p>
                             </div>
                         </div>
